@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>If You can see this text that means your setup is successfull</p>
+        <p>Region value error sorted</p>
         <a
           className="App-link"
           href="https://reactjs.org"
