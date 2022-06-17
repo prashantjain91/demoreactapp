@@ -11,6 +11,7 @@ function App() {
         </p>
         <p>If You can see this text that means your setup is successfull</p>
         <p>Region value error sorted</p>
+        <p>Another changes have been done</p>
         <a
           className="App-link"
           href="https://reactjs.org"
