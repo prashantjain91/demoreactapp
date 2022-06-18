@@ -2,8 +2,7 @@ import React from 'react';
 import "./App.css";
 const App = () => (
 <div className="mainappcontainer">
-<h2>Hello From Sagar</h2>
-<p>Learning React With Prashant</p>  
+<img src="http://larzclinic.com/nitesh/img/hunt%201.png"/>  
 </div>
 )
 
