@@ -1,7 +1,7 @@
 .mainappcontainer{
-  display:'flex';
-  flex-direction:"row";
+  display:flex;
+  flex-direction:row;
   color:brown;
-  justify-content:'center';
-  align-items:'center';
+  justify-content:center;
+  align-items:center;
 }
