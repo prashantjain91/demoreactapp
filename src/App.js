@@ -1,28 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <p>If You can see this text that means your setup is successfull</p>
-        <p>Region value error sorted</p>
-        <p>Another changes have been done</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => (
+<div>
+<h2>Hello From Sagar</h2>
+<p>Learning React With Prashant</p>  
+</div>
+)
 
 export default App;
