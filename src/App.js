@@ -1,9 +1,9 @@
 import React from 'react';
-import "./App.css";
+import Hero from './sections/Hero/Hero';
 const App = () => (
-<div className="mainappcontainer">
-<img src="http://larzclinic.com/nitesh/img/hunt%201.png"/>  
-</div>
+    <div>
+        <Hero/>
+    </div>
 )
 
 export default App;

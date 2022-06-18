@@ -1,0 +1,17 @@
+.navs li{
+    display:inline-block;
+    margin-left:40px;
+}
+
+.navs li a{
+    color:white;
+    text-decoration: none;
+    text-transform:uppercase;
+}
+
+h2{
+    font-size:52px;
+    font-weight:700;
+    text-transform:uppercase;
+    color:white;
+}
